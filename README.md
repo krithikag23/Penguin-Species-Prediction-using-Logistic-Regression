@@ -64,6 +64,24 @@ The dataset is an excellent alternative to the classic Iris dataset — modern, 
 
 ---
 
+## 🧩 Sample Prediction
+
+**Input:**
+| Feature | Value |
+|----------|--------|
+| island | Torgersen |
+| bill_length_mm | 45.1 |
+| bill_depth_mm | 17.2 |
+| flipper_length_mm | 210 |
+| body_mass_g | 4800 |
+| sex | Male |
+
+**Output:**
+> 🐧 Predicted Species: **Adelie**
+
+---
+
+
 
 
 
