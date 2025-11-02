@@ -5,8 +5,6 @@ Built using Python, Pandas, Scikit-learn, and Seaborn datasets.
 
 ---
 
----
-
 ## 🧠 Overview
 
 This project demonstrates a **multiclass classification** approach using Logistic Regression on the **Palmer Penguins dataset** (available in Seaborn).  
