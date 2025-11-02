@@ -89,5 +89,16 @@ Here’s the confusion matrix representing true vs. predicted species:
 
 All diagonal entries represent correct predictions — no misclassifications occurred.
 
+---
 
+## 🧰 Requirements
+
+To run this project, install the following Python libraries:
+
+```bash
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
 
