@@ -81,7 +81,13 @@ The dataset is an excellent alternative to the classic Iris dataset — modern, 
 
 ---
 
+## 📈 Confusion Matrix
 
+Here’s the confusion matrix representing true vs. predicted species:
+
+![Confusion Matrix](penguin_species.png)
+
+All diagonal entries represent correct predictions — no misclassifications occurred.
 
 
 
